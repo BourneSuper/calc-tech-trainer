@@ -1,0 +1,15 @@
+{
+    "name": "bs/calc-tech-trainer",
+    "authors": [
+        {
+            "name": "BourneSuper",
+            "email": "bourne_w@sina.com"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4" : {
+            "BS\\CTT\\" : "src/"
+        }
+    }
+}
